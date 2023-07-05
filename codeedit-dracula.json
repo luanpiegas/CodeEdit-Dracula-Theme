@@ -1,0 +1,125 @@
+{
+  "author" : "Luan Piegas",
+  "displayName" : "Dracula",
+  "editor" : {
+    "invisibles" : {
+      "color" : "#282A36"
+    },
+    "comments" : {
+      "color" : "#6272A4"
+    },
+    "numbers" : {
+      "color" : "#bd93f9"
+    },
+    "commands" : {
+      "color" : "#FFB86C"
+    },
+    "lineHighlight" : {
+      "color" : "#44475a"
+    },
+    "values" : {
+      "color" : "#BD93F9"
+    },
+    "background" : {
+      "color" : "#282A36"
+    },
+    "keywords" : {
+      "color" : "#FF79C6"
+    },
+    "text" : {
+      "color" : "#F8F8F2"
+    },
+    "insertionPoint" : {
+      "color" : "#BD93F9"
+    },
+    "strings" : {
+      "color" : "#F1FA8C"
+    },
+    "selection" : {
+      "color" : "#44475A"
+    },
+    "types" : {
+      "color" : "#BD93F9"
+    },
+    "variables" : {
+      "color" : "#50FA7B"
+    },
+    "attributes" : {
+      "color" : "#50FA7B"
+    },
+    "characters" : {
+      "color" : "#BD93F9"
+    }
+  },
+  "distributionURL" : "https:\/\/github.com\/CodeEditApp\/CodeEdit",
+  "terminal" : {
+    "white" : {
+      "color" : "#f8f8f2"
+    },
+    "brightMagenta" : {
+      "color" : "#bd93f9"
+    },
+    "brightRed" : {
+      "color" : "#ff5555"
+    },
+    "blue" : {
+      "color" : "#8be9fd"
+    },
+    "red" : {
+      "color" : "#ff5555"
+    },
+    "green" : {
+      "color" : "#50fa7b"
+    },
+    "boldText" : {
+      "color" : "#f8f8f2"
+    },
+    "brightGreen" : {
+      "color" : "#50fa7b"
+    },
+    "background" : {
+      "color" : "#282a36"
+    },
+    "cursor" : {
+      "color" : "#f8f8f2"
+    },
+    "selection" : {
+      "color" : "#44475a"
+    },
+    "magenta" : {
+      "color" : "#bd93f9"
+    },
+    "black" : {
+      "color" : "#282a36"
+    },
+    "text" : {
+      "color" : "#f8f8f2"
+    },
+    "brightWhite" : {
+      "color" : "#f8f8f2"
+    },
+    "brightBlue" : {
+      "color" : "#8be9fd"
+    },
+    "brightYellow" : {
+      "color" : "#f1fa8c"
+    },
+    "cyan" : {
+      "color" : "#8be9fd"
+    },
+    "yellow" : {
+      "color" : "#f1fa8c"
+    },
+    "brightCyan" : {
+      "color" : "#8be9fd"
+    },
+    "brightBlack" : {
+      "color" : "#44475a"
+    }
+  },
+  "version" : "0.0.1",
+  "license" : "MIT",
+  "type" : "dark",
+  "name" : "codeedit-dracula",
+  "description" : "Dracula theme."
+}
